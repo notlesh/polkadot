@@ -17,7 +17,7 @@ polkadot-node-metrics = { path = "../metrics" }
 polkadot-primitives = { path = "../../primitives" }
 polkadot-overseer-gen = { path = "./overseer-gen" }
 tracing = "0.1.31"
-lru = "0.7"
+lru = "0.8"
 parity-util-mem = { version = "0.11.0", default-features = false }
 
 [dev-dependencies]
